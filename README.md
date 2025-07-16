@@ -2,6 +2,10 @@
 
 write a program that reads a word and prints the word in the given format.
 
+Input: Code
+
+Output: **** Code ****
+
 Explanation:
 
 This Python program is designed to read a word and then print it in a specific format. The key requirement is to surround the word with a number of asterisks (*) that matches the length of the word. The stars are to be placed both before and after the word, separated by a space.
